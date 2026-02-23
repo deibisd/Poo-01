@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="POO_Workshop.Backend/POO_Workshop.Backend.csproj" Id="c52232e8-e6d8-4e97-9034-a3a94a56a1b7" />
+  <Project Path="POO_Workshop.Frontend/POO_Workshop.Frontend.csproj" Id="7c61729a-892f-451d-953b-69d3824ac6fb" />
+</Solution>
